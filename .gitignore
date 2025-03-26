@@ -4,3 +4,7 @@ __pycache__/
 frame.jpg
 .env
 .DS_Store
+*.pt
+*.log
+.vscode/
+
